@@ -2,7 +2,7 @@
 
 This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and the Open Trivia Database. The app allows users to test their knowledge by answering quiz questions from various categories.
 
-![image]()
+![image](https://drive.google.com/file/d/1GDesXIxfwHi8DNHyr-Rf_xerNyvtySE2/view?usp=sharing)
 
 
 ## Features
